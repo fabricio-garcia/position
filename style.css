@@ -1,0 +1,207 @@
+/* h1 {
+    text-align: center;
+}
+.quadro-preto {
+    background-color: rgb(255, 2, 2);
+    height: 500px;
+    width: 500px;
+    padding: 5px;
+    position: relative;
+}
+.quadro-preto:hover {
+    background-color: rgb(14, 68, 116);
+    border-radius: 50%;
+} */
+.azul{
+   
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+    position: relative;
+}
+.vermelha{
+    background-color: red;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+.preta{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+.verde{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+.amarela{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+.exercicio2{
+    margin-top: 30px;
+    background-color: darkgray;
+    height: 300px;
+    width: 600px;
+    position: relative;
+}
+.quadrado1 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.quadrado2 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.quadrado3 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.quadrado4 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.exercicio3{
+    margin-top: 30px;
+    background-color: darkgray;
+    height: 400px;
+    width: 800px;
+    position: relative;
+}
+.quadrado11{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.quadrado22{
+    margin-left: 10px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0px;
+    left: 100px;
+}
+.quadrado33{
+    margin-left: 20px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 200px;
+}
+.quadrado44{
+    margin-top: 20px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
+.quadrado5{
+    margin-top: 30px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 200px;
+    left: 0;
+}
+.quadrado6{
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.quadrado7{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.quadrado8{
+    margin-right: 10px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+}
+.quadrado9{
+    margin-right: 20px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 200px;
+}
+.quadrado10{
+    margin-bottom: 10px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 100px;
+    right: 0;
+}
+.quadrado111{
+    margin-bottom: 30px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 200px;
+    right: 0;
+}
+.quadrado12{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+}
